@@ -1,8 +1,0 @@
-
-Population Mean Blood Pressure: 69.11
-Population Standard Deviation Blood Pressure: 19.36
-Population 95th Percentile Blood Pressure: 90.00
-
-Bootstrap Mean Blood Pressure (average of 500 means): 69.20
-Bootstrap Standard Deviation Blood Pressure (std of 500 means): 19.10
-Bootstrap 95th Percentile Blood Pressure (average of 500 percentiles): 91.29
